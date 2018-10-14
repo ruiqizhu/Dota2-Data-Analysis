@@ -1,0 +1,13 @@
+Less than 2 number of games for 2 consecutive months is considered inactive
+Results of 5 number of games is tracked before start of inactive period
+Results are listed below:
+3: 0.5666666666666665
+2: 0.4076923076923077
+8: 0.5599999999999999
+4: 0.3333333333333333
+6: 0.4
+23: 0.8
+5: 0.35000000000000003
+9: 0.25
+17: 0.2
+16: 0.8
